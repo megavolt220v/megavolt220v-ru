@@ -33,8 +33,8 @@
 					<p>2. Найдите в выделенной колонке графу "Яндекс.Деньги"
 					<img src="http://i.yapx.ru/EC5qX.png">
 					<p>3. Заполните нужные графы.
-					<img src="http://i.yapx.ru/EC5qY.png">
-					<img src="http://i.yapx.ru/EC5qZ.png">
+					<p><img src="http://i.yapx.ru/EC5qY.png">
+					<p><img src="http://i.yapx.ru/EC5qZ.png">
 				</details>
 			</li>
 			<li>Перевод с Яндекс.Денег на Яндекс.Деньги

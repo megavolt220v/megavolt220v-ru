@@ -39,6 +39,7 @@
 >```
 > Команды бана и кика:
 >```
+* sm_banip "nickname" "time in min" "reason" - *бан по ip(лучше выдавать на сутки)* 
 * sm_ban "nickname" "time in min" "reason" - *бан* 
 * sm_kick "nickname" "time in min" "reason"  - *кик*
 * sm_unban - *разбан*
